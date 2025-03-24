@@ -1,2 +1,5 @@
 /.venv
 /*.exe
+/Log
+/__pycache__
+/config.json
